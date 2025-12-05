@@ -1,0 +1,57 @@
+name: meta_assistant_ai
+description: "AI Assistant for public services with offline-first architecture"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Локализация
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  easy_localization: ^3.0.3
+
+  # Локальное хранилище
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.1
+
+  # Сетевые возможности
+  connectivity_plus: ^5.0.2
+  dio: ^5.4.0
+
+  # UI компоненты
+  flutter_markdown: ^0.6.18
+  shimmer: ^3.0.0
+  lottie: ^3.0.0
+
+  # Векторный поиск
+  sqflite: ^2.3.0
+
+  # AI/ML для мобильных платформ
+  tflite_flutter: ^0.12.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+  # Hive генерация адаптеров
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
+
+  # Assets
+  assets:
+    - assets/translations/
+    - assets/models/
+    - assets/animations/
+    - assets/data/services/
+    - assets/data/faq/

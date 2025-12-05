@@ -1,0 +1,30 @@
+[
+  {
+    "id": "birth_certificate",
+    "nameFr": "Acte de naissance",
+    "nameAr": "شهادة الميلاد",
+    "descriptionFr": "Demande de copie intégrale ou d'extrait d'acte de naissance.",
+    "descriptionAr": "طلب نسخة كاملة أو موجز من شهادة الميلاد.",
+    "keywordsFr": ["naissance", "acte", "certificat", "état civil"],
+    "keywordsAr": ["شهادة", "ميلاد", "الحالة", "المدنية"],
+    "category": "civil_status",
+    "documentationUrl": "https://example.service.public/naissance",
+    "requirements": ["Pièce d'identité", "Informations sur la personne concernée (nom, prénoms, date et lieu de naissance)"],
+    "processingTime": "5-10 jours",
+    "price": 0.0
+  },
+  {
+    "id": "marriage_certificate",
+    "nameFr": "Acte de mariage",
+    "nameAr": "عقد الزواج",
+    "descriptionFr": "Demande de copie intégrale ou d'extrait d'acte de mariage.",
+    "descriptionAr": "طلب نسخة كاملة أو موجز من عقد الزواج.",
+    "keywordsFr": ["mariage", "acte", "certificat", "état civil"],
+    "keywordsAr": ["عقد", "زواج", "الحالة", "المدنية"],
+    "category": "civil_status",
+    "documentationUrl": "https://example.service.public/mariage",
+    "requirements": ["Pièce d'identité", "Informations sur les époux (noms, prénoms, date et lieu de mariage)"],
+    "processingTime": "5-10 jours",
+    "price": 0.0
+  }
+]

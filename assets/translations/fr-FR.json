@@ -1,0 +1,72 @@
+{
+  "meta_assistant_ai": "Assistant Services Publics",
+  "app_title": "Assistant Services Publics",
+  "chat": {
+    "title": "Assistant IA",
+    "input_hint": "Posez votre question...",
+    "send": "Envoyer",
+    "typing": "En train d'écrire...",
+    "thinking": "Je réfléchis...",
+    "no_internet": "Pas de connexion Internet",
+    "offline_mode": "Mode hors ligne",
+    "online_mode": "Mode en ligne"
+  },
+  "services": {
+    "title": "Services disponibles",
+    "search": "Rechercher un service",
+    "categories": {
+      "identity": "Identité",
+      "civil_status": "État civil",
+      "transport": "Transport",
+      "housing": "Logement",
+      "health": "Santé",
+      "education": "Éducation"
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "popular": "Questions populaires",
+    "related": "Questions similaires"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "theme": "Thème",
+    "notifications": "Notifications",
+    "clear_history": "Effacer l'historique",
+    "about": "À propos"
+  },
+  "actions": {
+    "view_details": "Voir les détails",
+    "make_appointment": "Prendre rendez-vous",
+    "download_forms": "Télécharger les formulaires",
+    "contact_support": "Contacter le support",
+    "back": "Retour",
+    "cancel": "Annuler",
+    "confirm": "Confirmer"
+  },
+  "errors": {
+    "general": "Une erreur s'est produite",
+    "no_results": "Aucun résultat trouvé",
+    "connection_failed": "Échec de la connexion",
+    "try_again": "Réessayer"
+  },
+  "response_sources": {
+    "rule_based": "Réponse instantanée",
+    "faq": "Base de connaissances",
+    "local_ai": "IA locale",
+    "online_api": "IA en ligne",
+    "fallback": "Réponse suggérée"
+  },
+  "welcome": {
+    "title": "Bienvenue sur votre Assistant IA",
+    "description": "Je suis là pour répondre à vos questions administratives, même sans connexion internet.",
+    "subtitle": "Comment puis-je vous aider aujourd'hui?",
+    "suggestions": [
+      "Demander un passeport",
+      "Renouveler ma carte d'identité",
+      "Obtenir un acte de naissance",
+      "Permis de conduire"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "faq_1",
+    "questionFr": "Quels sont les documents nécessaires pour renouveler un passeport ?",
+    "questionAr": "ما هي الوثائق المطلوبة لتجديد جواز السفر؟",
+    "answerFr": "Pour renouveler votre passeport, vous avez besoin de votre ancienne carte d'identité, un justificatif de domicile de moins de 3 mois, un timbre fiscal, et votre ancien passeport.",
+    "answerAr": "لتجديد جواز سفرك، تحتاج إلى بطاقتك التعريفية القديمة، إثبات سكن لا يتجاوز 3 أشهر، طابع جبائي، وجواز سفرك القديم.",
+    "tags": ["passeport", "renouvellement", "documents"],
+    "relatedServiceId": "passport",
+    "popularity": 15
+  },
+  {
+    "id": "faq_2",
+    "questionFr": "Combien coûte le renouvellement de la carte d'identité ?",
+    "questionAr": "كم تكلفة تجديد بطاقة التعريف الوطنية؟",
+    "answerFr": "Le renouvellement de la carte d'identité est gratuit, sauf en cas de perte ou de vol où un timbre fiscal de 25€ est requis.",
+    "answerAr": "تجديد بطاقة التعريف الوطنية مجاني، إلا في حالة الضياع أو السرقة حيث يلزم طابع جبائي بقيمة 25 يورو.",
+    "tags": ["cni", "coût", "prix", "gratuit"],
+    "relatedServiceId": "id_card",
+    "popularity": 25
+  },
+  {
+    "id": "faq_3",
+    "questionFr": "Comment puis-je obtenir un acte de naissance en ligne ?",
+    "questionAr": "كيف يمكنني الحصول على شهادة ميلاد عبر الإنترنت؟",
+    "answerFr": "Vous pouvez faire la demande sur le site officiel du service public de votre pays. La démarche est généralement gratuite et le document est envoyé par courrier.",
+    "answerAr": "يمكنك تقديم الطلب عبر الموقع الرسمي للخدمة العمومية في بلدك. الإجراء عادة مجاني ويتم إرسال الوثيقة عبر البريد.",
+    "tags": ["acte de naissance", "en ligne", "demande"],
+    "relatedServiceId": "birth_certificate",
+    "popularity": 12
+  },
+  {
+    "id": "faq_4",
+    "questionFr": "Quel est le délai pour obtenir un permis de conduire ?",
+    "questionAr": "ما هي المدة الزمنية للحصول على رخصة السياقة؟",
+    "answerFr": "Le délai moyen est de 4 à 6 semaines après avoir réussi l'examen pratique.",
+    "answerAr": "متوسط المدة هو من 4 إلى 6 أسابيع بعد اجتياز الامتحان التطبيقي.",
+    "tags": ["permis de conduire", "délai", "temps"],
+    "relatedServiceId": "driving_license",
+    "popularity": 8
+  },
+  {
+    "id": "faq_5",
+    "questionFr": "Où puis-je acheter le timbre fiscal pour le passeport ?",
+    "questionAr": "أين يمكنني شراء الطابع الجبائي لجواز السفر؟",
+    "answerFr": "Vous pouvez acheter le timbre fiscal électronique en ligne sur le site des impôts, ou dans un bureau de tabac agréé.",
+    "answerAr": "يمكنك شراء الطابع الجبائي الإلكتروني عبر الإنترنت من موقع الضرائب، أو من مكتب تبغ معتمد.",
+    "tags": ["timbre fiscal", "passeport", "achat"],
+    "relatedServiceId": "passport",
+    "popularity": 20
+  }
+]

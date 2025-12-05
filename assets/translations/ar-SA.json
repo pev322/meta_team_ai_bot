@@ -1,0 +1,72 @@
+{
+  "meta_assistant_ai": "مساعد الخدمات العامة",
+  "app_title": "مساعد الخدمات العامة",
+  "chat": {
+    "title": "المساعد الذكي",
+    "input_hint": "اطرح سؤالك...",
+    "send": "إرسال",
+    "typing": "جاري الكتابة...",
+    "thinking": "جاري التفكير...",
+    "no_internet": "لا يوجد اتصال بالإنترنت",
+    "offline_mode": "وضع عدم الاتصال",
+    "online_mode": "وضع الاتصال"
+  },
+  "services": {
+    "title": "الخدمات المتاحة",
+    "search": "البحث عن خدمة",
+    "categories": {
+      "identity": "الهوية",
+      "civil_status": "الأحوال المدنية",
+      "transport": "النقل",
+      "housing": "السكن",
+      "health": "الصحة",
+      "education": "التعليم"
+    }
+  },
+  "faq": {
+    "title": "الأسئلة الشائعة",
+    "popular": "أسئلة شائعة",
+    "related": "أسئلة مشابهة"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "notifications": "الإشعارات",
+    "clear_history": "مسح السجل",
+    "about": "حول"
+  },
+  "actions": {
+    "view_details": "عرض التفاصيل",
+    "make_appointment": "حجز موعد",
+    "download_forms": "تحميل النماذج",
+    "contact_support": "الاتصال بالدعم",
+    "back": "رجوع",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد"
+  },
+  "errors": {
+    "general": "حدث خطأ",
+    "no_results": "لم يتم العثور على نتائج",
+    "connection_failed": "فشل الاتصال",
+    "try_again": "حاول مرة أخرى"
+  },
+  "response_sources": {
+    "rule_based": "إجابة فورية",
+    "faq": "قاعدة المعرفة",
+    "local_ai": "الذكاء الاصطناعي المحلي",
+    "online_api": "الذكاء الاصطناعي عبر الإنترنت",
+    "fallback": "إجابة مقترحة"
+  },
+  "welcome": {
+    "title": "مرحباً بك في مساعدك الذكي",
+    "description": "أنا هنا للإجابة على أسئلتك الإدارية، حتى بدون اتصال بالإنترنت.",
+    "subtitle": "كيف يمكنني مساعدتك اليوم؟",
+    "suggestions": [
+      "طلب جواز سفر",
+      "تجديد بطاقة الهوية",
+      "الحصول على شهادة ميلاد",
+      "رخصة القيادة"
+    ]
+  }
+}

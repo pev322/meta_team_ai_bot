@@ -1,0 +1,16 @@
+[
+  {
+    "id": "driving_license",
+    "nameFr": "Permis de conduire",
+    "nameAr": "رخصة السياقة",
+    "descriptionFr": "Inscription à l'examen ou demande de duplicata du permis de conduire.",
+    "descriptionAr": "التسجيل في امتحان السياقة أو طلب نسخة من الرخصة.",
+    "keywordsFr": ["permis", "conduire", "voiture", "transport"],
+    "keywordsAr": ["رخصة", "سياقة", "سيارة", "نقل"],
+    "category": "transport",
+    "documentationUrl": "https://example.service.public/permis",
+    "requirements": ["Pièce d'identité", "Certificat médical", "Photos d'identité"],
+    "processingTime": "4-6 semaines",
+    "price": 25.0
+  }
+]

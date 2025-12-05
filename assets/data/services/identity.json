@@ -1,0 +1,30 @@
+[
+  {
+    "id": "passport",
+    "nameFr": "Passeport",
+    "nameAr": "جواز السفر",
+    "descriptionFr": "Obtention ou renouvellement d'un passeport biométrique.",
+    "descriptionAr": "الحصول على جواز سفر بيومتري أو تجديده.",
+    "keywordsFr": ["passeport", "voyage", "international", "document"],
+    "keywordsAr": ["جواز", "سفر", "دولي", "وثيقة"],
+    "category": "identity",
+    "documentationUrl": "https://example.service.public/passport",
+    "requirements": ["Carte d'identité", "Justificatif de domicile", "Timbre fiscal", "Ancien passeport si renouvellement"],
+    "processingTime": "3-4 semaines",
+    "price": 86.0
+  },
+  {
+    "id": "id_card",
+    "nameFr": "Carte d'identité",
+    "nameAr": "بطاقة التعريف الوطنية",
+    "descriptionFr": "Demande de première carte d'identité ou renouvellement.",
+    "descriptionAr": "طلب بطاقة التعريف الوطنية لأول مرة أو تجديدها.",
+    "keywordsFr": ["cni", "carte d'identité", "identité", "document"],
+    "keywordsAr": ["بطاقة", "هوية", "تعريف", "وطنية"],
+    "category": "identity",
+    "documentationUrl": "https://example.service.public/cni",
+    "requirements": ["Photos d'identité", "Justificatif de domicile", "Ancienne carte si renouvellement"],
+    "processingTime": "2-3 semaines",
+    "price": 0.0
+  }
+]
