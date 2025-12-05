@@ -2,6 +2,8 @@
 
 An AI assistant for public services with an offline-first architecture.
 
+
+
 ## Features
 
 -   **Universal**: Supports Web, Android, and iOS.
@@ -9,6 +11,14 @@ An AI assistant for public services with an offline-first architecture.
 -   **Multilingual**: French and Arabic language support (with RTL).
 -   **Low requirements**: Works on low-end devices and slow internet connections.
 -   **Multi-level processing**: Rules → FAQ → Local AI → Online API.
+
+## Demo
+
+Watch the project presentation on YouTube:
+
+[![META Assistant AI Demo](https://img.youtube.com/vi/wEph9VzEjhU/0.jpg)](https://youtu.be/wEph9VzEjhU)
+
+[Watch on YouTube](https://youtu.be/wEph9VzEjhU)
 
 ## Quick Start
 
